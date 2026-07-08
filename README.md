@@ -32,9 +32,9 @@ The activities focus on programming logic, data manipulation and the development
 
 ◦ Visual Studio Code
 
-◦ Git
-
 ◦ GitHub
+
+◦ DeepNote
 
 ---
 
