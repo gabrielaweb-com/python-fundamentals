@@ -8,21 +8,21 @@ This repository documents my learning journey through Python programming, proble
 
 ## ✦ About
 
-This repository contains practical projects and exercises developed to strengthen my Python programming fundamentals.
+This repository contains practical Python projects developed to strengthen programming logic, data manipulation and computational skills.
 
-The activities focus on programming logic, data manipulation and the development of solutions using Python.
+The projects were developed using Python notebooks and environments focused on learning and experimentation.
 
 ---
 
 ## ✦ Projects
 
-◦ Project 01 — Python Fundamentals
+◦ Project 01 — Python Project
 
-◦ Project 02 — Python Fundamentals
+◦ Project 02 — Python Project
 
-◦ Project 03 — Python Fundamentals
+◦ Project 03 — Python Project
 
-◦ Project 04 — Python Fundamentals
+◦ Project 04 — Python Project
 
 ---
 
@@ -30,17 +30,21 @@ The activities focus on programming logic, data manipulation and the development
 
 ◦ Python
 
+◦ Deepnote
+
+◦ Jupyter Notebook
+
 ◦ Visual Studio Code
 
 ◦ GitHub
-
-◦ DeepNote
 
 ---
 
 ## ✦ Skills Developed
 
 ◦ Programming logic.
+
+◦ Data manipulation.
 
 ◦ Variables and data structures.
 
@@ -51,8 +55,6 @@ The activities focus on programming logic, data manipulation and the development
 ◦ Functions.
 
 ◦ Problem solving.
-
-◦ Python fundamentals.
 
 ---
 
@@ -66,24 +68,3 @@ python-fundamentals
     ├── project-02
     ├── project-03
     └── project-04
-```
-
----
-
-## ✦ Academic Context
-
-This repository documents my progress as a Data and Artificial Intelligence Engineering student.
-
-The purpose is to organize my studies, projects and evolution in Python programming.
-
----
-
-## ✦ Author
-
-**Gabriela Fernandes Paes Favaretto**
-
-Data & Artificial Intelligence Engineering Student
-
-◦ LinkedIn: https://www.linkedin.com/in/gabriela-favaretto/
-
-◦ GitHub: https://github.com/gabrielaweb-com
